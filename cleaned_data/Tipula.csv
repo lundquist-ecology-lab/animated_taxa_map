@@ -1,0 +1,59 @@
+Catalog Number,Class,Order,Suborder,Superfamily,Family,Subfamily,Tribe,Genus,Subgenus,Species,Subspecies,Author,Year,Country,State,County,Locality,Other Descriptor,Body of Water,Latitude,Longitude,Elevation,GBIF Precision,Collected Beginning,Collected Ending,Collector,Method,Habitat,Identified by,Year Identified,Type,Type Name,Male,Female,Immature,Pupa,Exuvia,Adult,Other,Age Unknown,Preparation,Created,Modified
+ ,Insecta,Diptera, ,Tipuloidea,Tipulidae, , ,Tipula, ,canadensis, ,Loew,1864, , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ ,Insecta,Diptera, ,Tipuloidea,Tipulidae, , ,Tipula, ,ignobilis, ,Loew,1863, , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ ,Insecta,Diptera, ,Tipuloidea,Tipulidae, , ,Tipula, ,bicornis, ,Forbes,1890, , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ ,Insecta,Diptera, ,Tipuloidea,Tipulidae, , ,Tipula, ,valida,valida,Loew,1863, , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ ,Insecta,Diptera, ,Tipuloidea,Tipulidae, , ,Tipula, ,furca, ,Walker,1848, , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ ,Insecta,Diptera, ,Tipuloidea,Tipulidae, , ,Tipula, ,coloradensis, ,Doane,1911, , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ ,Insecta,Diptera, ,Tipuloidea,Tipulidae, , ,Tipula, ,fragilis, ,Loew,1863, , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ ,Insecta,Diptera, ,Tipuloidea,Tipulidae, , ,Tipula, ,flavibasis, ,Alexander,1918, , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ ,Insecta,Diptera, ,Tipuloidea,Tipulidae, , ,Tipula, ,dejecta, ,Walker,1856, , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ ,Insecta,Diptera, ,Tipuloidea,Tipulidae, , ,Tipula, ,tuscarora, ,Alexander,1915, , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ ,Insecta,Diptera, ,Tipuloidea,Tipulidae, , ,Tipula, ,submaculata, ,Loew,1863, , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ ,Insecta,Diptera, ,Tipuloidea,Tipulidae, , ,Tipula, ,dorsimacula, ,Walker,1848, , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ ,Insecta,Diptera, , ,Tipulidae, , ,Tipula, ,sulphurea, ,Doane,1901, , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ ,Insecta,Diptera, ,Tipuloidea,Tipulidae, , ,Tipula, ,streptocera,streptocera,Doane,1901, , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ ,Insecta,Diptera, ,Tipuloidea,Tipulidae, , ,Tipula, ,serta, ,Loew,1863, , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ ,Insecta,Diptera, ,Tipuloidea,Tipulidae, , ,Tipula, ,duplex, ,Walker,1848, , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+Insect Collection 658773,Insecta,Diptera, , ,Tipulidae, , ,Tipula, , , , , ,United States,Illinois,Bond,4.5 km NNW Greenville at Ayers Rd., ,tributary to East Fork Shoal Creek,38.93051,-89.42921, ,10,06/24/2016, ,E.J. South, ,Stream,E. J. South,2017, , , , , , , ,1, , ,Vial,12/13/2018 12:00:00 AM,12/18/2018 12:00:00 AM
+Insect Collection 658661,Insecta,Diptera, , ,Tipulidae, , ,Tipula, , , , , ,United States,Illinois,Shelby,2.5 km E Lakewood at 750N, ,tributary to Mitchell Creek,39.32556,-88.87054, ,10,06/22/2016, ,"E.J. South, R.E. DeWalt", ,Stream,E. J. South,2017, , , , , , , ,1, , ,Vial,12/17/2018 12:00:00 AM,12/18/2018 12:00:00 AM
+Loan Invoice 3612,Insecta,Diptera, , ,Tipulidae, , ,Tipula, , , , , ,Unknown, , , , , , , , , , , , , , , , , , , , , , , ,12, , ,Pin,6/18/2014 12:00:00 AM,6/18/2014 12:00:00 AM
+Loan Invoice 4463,Insecta,Diptera, , ,Tipulidae, , ,Tipula, , , , , ,Unknown, , , , , , , , , , , , , , , , , , , , , , , ,12, , ,Pin,6/18/2014 12:00:00 AM,6/18/2014 12:00:00 AM
+Insect Collection 658683,Insecta,Diptera, , ,Tipulidae, , ,Tipula, , , , , ,United States,Illinois,Montgomery,4.7 km WNW Oconee at Lonebridge Ave., ,Ramsey Creek,39.29897,-89.15911, ,10,06/22/2016, ,"E.J. South, R.E. DeWalt", ,Stream,E. J. South,2017, , , , , , , ,1, , ,Vial,12/17/2018 12:00:00 AM,12/18/2018 12:00:00 AM
+Insect Collection 658722,Insecta,Diptera, , ,Tipulidae, , ,Tipula, , , , , ,United States,Illinois,Montgomery,4.7 km NNE Fillmore at Knols School Rd., ,tributary to Hurricane Creek,39.15385,-89.25554, ,10,06/23/2016, ,"E.J. South, R.E. DeWalt", ,Stream,E. J. South,2017, , , , ,1, , , , , ,Vial,12/13/2018 12:00:00 AM,12/18/2018 12:00:00 AM
+Insect Collection 438267,Insecta,Diptera, , ,Tipulidae, , ,Tipula, , , , , ,United States,California,Siskiyou,Spider Cave, , , , , , ,06/14/2005, ,"S.J. Taylor, J.K. Krejca, J.J. Jacoby, R. Pleszewski, S. Dunn", ,cave, , , , , , ,1, , , , , ,Vial,10/23/2009 12:00:00 AM,8/22/2017 12:00:00 AM
+Insect Collection 658724,Insecta,Diptera, , ,Tipulidae, , ,Tipula, , , , , ,United States,Illinois,Montgomery,3.6 km NNW Fillmore at 1000N, ,Dry Fork,39.14425,-89.29864, ,10,06/23/2016, ,"E.J. South, R.E. DeWalt",UV light,Stream,E. J. South,2017, , , , ,1, , , , , ,Vial,12/13/2018 12:00:00 AM,12/31/2018 12:00:00 AM
+Insect Collection 658634,Insecta,Diptera, , ,Tipulidae, , ,Tipula, , , , , ,United States,Illinois,Shelby,9.1 km NW Shelbyville at 1700N, ,Robinson Creek,39.46425,-88.86473, ,10,06/22/2016, ,"E.J. South, R.E. DeWalt", ,Stream,E. J. South,2017, , , , , , , , , ,1,Vial,12/17/2018 12:00:00 AM,12/18/2018 12:00:00 AM
+Insect Collection 655561,Insecta,Diptera, , ,Tipulidae, , ,Tipula, , , , , ,United States,Illinois,Lake,1.6 km E Highland Park,Millard Park,tributary of Lake Michigan,42.17942,-87.78055, , ,05/28/2013, ,R.E. DeWalt, , ,R.E. DeWalt,2013, , , , ,1, , , , , ,Vial,9/11/2013 12:00:00 AM,2/3/2015 12:00:00 AM
+Insect Collection 658740,Insecta,Diptera, , ,Tipulidae, , ,Tipula, , , , , ,United States,Illinois,Montgomery,0.5 km W Fillmore at 800N, ,Lanes Branch,39.11558,-89.28287, ,10,06/23/2016, ,"E.J. South, R.E. DeWalt", ,Stream,E. J. South,2017, , , , ,1, , , , , ,Vial,12/13/2018 12:00:00 AM,12/18/2018 12:00:00 AM
+Insect Collection 658753,Insecta,Diptera, , ,Tipulidae, , ,Tipula, , , , , ,United States,Illinois,Fayette,3.8 km NNE Bluff City at 1200E., ,Camp Creek,39.99489,-89.02857, ,10,06/23/2016, ,"E.J. South, R.E. DeWalt", ,Stream,E. J. South,2017, , , , , , , ,1, , ,Vial,12/13/2018 12:00:00 AM,12/18/2018 12:00:00 AM
+Insect Collection 658708,Insecta,Diptera, , ,Tipulidae, , ,Tipula, , , , , ,United States,Illinois,Montgomery,8.4 km NNE Fillmore at 3100N, ,Hurricane Creek,39.18901,-89.25801, ,10,06/23/2016, ,"E.J. South, R.E. DeWalt", ,Stream,E. J. South,2017, , , , ,1, , , , , ,Vial,12/13/2018 12:00:00 AM,12/18/2018 12:00:00 AM
+Insect Collection 32772,Insecta,Diptera, , ,Tipulidae, , ,Tipula, , , , , ,United States,Tennessee,Blount,Tabcat Creek drainage,Great Smoky Mountains National Park,Seeps of Cattail Branch,35.5149,-83.9763,311,10,05/21/2003,05/22/2003,R.E. DeWalt,Hand,seep,R.E. DeWalt,2003, , , , ,1, , , , , ,Vial,11/30/2003 12:00:00 AM,2/3/2015 12:00:00 AM
+Insect Collection 658764,Insecta,Diptera, , ,Tipulidae, , ,Tipula, , , , , ,United States,Illinois,Fayette,3.8 km SW Brownstown at 1475E, ,Sandy Run,38.96925,-88.97995, ,10,06/24/2016, ,E. J. South, ,Stream,E. J. South,2017, , , , , , , ,1, , ,Vial,12/13/2018 12:00:00 AM,12/18/2018 12:00:00 AM
+ ,Insecta,Diptera, ,Tipuloidea,Tipulidae, , ,Tipula, ,ultima, ,Alexander,1915, , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ ,Insecta,Diptera, ,Tipuloidea,Tipulidae, , ,Tipula, ,cunctans, ,Say,1823, , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ ,Insecta,Diptera, ,Tipuloidea,Tipulidae, , ,Tipula, ,morrisoni, ,Alexander,1915, , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ ,Insecta,Diptera, ,Tipuloidea,Tipulidae, , ,Tipula, ,flavoumbrosa, ,Alexander,1918, , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ ,Insecta,Diptera, ,Tipuloidea,Tipulidae, , ,Tipula, ,senega, ,Alexander,1915, , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ ,Insecta,Diptera, ,Tipuloidea,Tipulidae, , ,Tipula, ,usitata,usitata,Doane,1901, , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ ,Insecta,Diptera, ,Tipuloidea,Tipulidae, , ,Tipula, ,perlongipes, ,Johnson,1909, , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ ,Insecta,Diptera, ,Tipuloidea,Tipulidae, , ,Tipula, ,trivittata,trivittata,Say,1823, , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ ,Insecta,Diptera, ,Tipuloidea,Tipulidae, , ,Tipula, ,translucida, ,Doane,1901, , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ ,Insecta,Diptera, ,Tipuloidea,Tipulidae, , ,Tipula, ,fuliginosa, ,Say,1823, , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ ,Insecta,Diptera, ,Tipuloidea,Tipulidae, , ,Tipula, ,colei, ,Alexander,1942, , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ ,Insecta,Diptera, ,Tipuloidea,Tipulidae, , ,Tipula, ,pseudotruncorum, ,Alexander,1920, , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+Insect Collection 238981,Insecta,Diptera, , ,Tipulidae, , ,Tipula,Lunatipula,mallochi, ,Alexander,1920,United States,Illinois,Union,Alto Pass, , ,37.57028,-89.3175, ,10000,06/05/1919, ,J.R. Malloch, , ,C.P. Alexander, ,Holotype,Tipula mallochi Alexander,1, , , , , , , ,Pin,5/23/2007 12:00:00 AM,4/9/2008 12:00:00 AM
+Insect Collection 238982,Insecta,Diptera, , ,Tipulidae, , ,Tipula,Lunatipula,mallochi, ,Alexander,1920,United States,Illinois,Union,Alto Pass, , ,37.57028,-89.3175, ,10000,06/05/1919, ,J.R. Malloch, , ,C.P. Alexander, ,Allotype,Tipula mallochi Alexander, ,1, , , , , , ,Pin,5/23/2007 12:00:00 AM,4/9/2008 12:00:00 AM
+ ,Insecta,Diptera, ,Tipuloidea,Tipulidae, , ,Tipula, ,youngi, ,Alexander,1927, , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ ,Insecta,Diptera, ,Tipuloidea,Tipulidae, , ,Tipula, ,hermannia, ,Alexander,1915, , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ ,Insecta,Diptera, ,Tipuloidea,Tipulidae, , ,Tipula, ,angulata,angulata,Loew,1864, , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ ,Insecta,Diptera, ,Tipuloidea,Tipulidae, , ,Tipula, ,caloptera, ,Loew,1863, , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ ,Insecta,Diptera, ,Tipuloidea,Tipulidae, , ,Tipula, ,latipennis, ,Loew,1864, , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+Insect Collection 658615,Insecta,Diptera, , ,Tipulidae, , ,Tipula, , , , , ,United States,Illinois,Moultrie,4.8 km SW Hammond at 2500N, ,West Okaw River,39.76857,-88.63456, ,10,06/21/2016, ,"E. J. South, R. E. DeWalt", ,Stream,E. J. South,2017, , , , , , , ,1, , ,Vial,12/13/2018 12:00:00 AM,12/18/2018 12:00:00 AM
+Insect Collection 658673,Insecta,Diptera, , ,Tipulidae, , ,Tipula, , , , , ,United States,Illinois,Shelby,3.3 km WSW Lakewood at 1100E, ,tributary to Mitchell Creek,39.31557,-88.93636, ,10,06/22/2016, ,"E.J. South, R.E. DeWalt", ,Stream,E. J. South,2017, , , , , , , ,1, , ,Vial,12/17/2018 12:00:00 AM,12/18/2018 12:00:00 AM
+Insect Collection 3515,Insecta,Diptera, , ,Tipulidae, , ,Tipula, , , , , ,United States,Illinois,Cook,"Camp Sagawau, 7.5 km NE Lemont at quarry","Camp Sagawau, Cook County Forest Preserve",Camp Sagawau Quary,41.6877,-87.9139, ,1000,08/29/2001, ,R.E. DeWalt, , ,R.E. DeWalt,2001, , , , ,3,2, , , , ,Vial,12/12/2001 12:00:00 AM,2/3/2015 12:00:00 AM
+ ,Insecta,Diptera, ,Tipuloidea,Tipulidae, , ,Tipula, ,disjuncta, ,Walker,1856, , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ ,Insecta,Diptera, ,Tipuloidea,Tipulidae, , ,Tipula, ,eluta, ,Loew,1863, , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ ,Insecta,Diptera, ,Tipuloidea,Tipulidae, , ,Tipula, ,stonei, ,Alexander,1965, , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ ,Insecta,Diptera, ,Tipuloidea,Tipulidae, , ,Tipula, ,strepens, ,Loew,1863, , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ ,Insecta,Diptera, , ,Tipulidae, , ,Tipula, ,parshleyi, ,Alexander,1915, , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 

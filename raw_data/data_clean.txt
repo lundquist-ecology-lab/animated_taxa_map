@@ -1,0 +1,19 @@
+Find and replace this:
+
+"
+
+12345678910...>>
+
+",1,2,3,4,5,6,7,8,9,10,...,>>
+1,2,3,4,5,6,7,8,9,10,...,>>
+
+with blank space
+
+Remove all blank lines by finding:
+
+^(\s)*$\n
+
+and pressing "User Regular Expression"
+and replacing with blank space
+
+See: https://www.trainingdragon.co.uk/blog/how-to-remove-empty-lines-in-visual-studio-code
