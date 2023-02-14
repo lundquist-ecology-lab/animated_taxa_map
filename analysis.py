@@ -1,11 +1,3 @@
-# Analysis of insects from the genus *Hydropsyche*
-# over time in relation to urban centers and urbanization.
-
-# Data collected from [INHS Insect Collection Database](http://inhsinsectcollection.speciesfile.org/InsectCollection.aspx) (see inh_scraper.py)
-# and then cleaned manually
-
-# Note: can be modified to produce map of other genera (e.g. *Baetis*)
-
 # Import data
 
 #%%
